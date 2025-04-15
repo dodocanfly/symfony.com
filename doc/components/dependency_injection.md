@@ -3,7 +3,7 @@
 > [!NOTE]
 > Komponent DependencyInjection implementuje kompatybilny z [PSR-11](https://www.php-fig.org/psr/psr-11) kontener serwisów, który umożliwia standaryzację i centralizację sposobu tworzenia obiektów w Twojej aplikacji.
 
-Wprowadzenie do wstrzykiwania zależności (Dependency Injection) i kontenerów serwisów znajdziesz w artykule [Service Container](doc/service_container.md).
+Wprowadzenie do wstrzykiwania zależności (Dependency Injection) i kontenerów serwisów znajdziesz w artykule [Service Container](../service_container.md).
 
 ## Instalacja
 
@@ -12,11 +12,11 @@ composer require symfony/dependency-injection
 ```
 
 > [!NOTE]
-> Jeśli instalujesz ten komponent poza aplikacją Symfony, musisz dołączyć plik `vendor/autoload.php` w swoim kodzie, aby włączyć mechanizm automatycznego ładowania klas udostępniany przez Composera. Więcej szczegółów znajdziesz w [tym artykule](doc/components/using_components.md).
+> Jeśli instalujesz ten komponent poza aplikacją Symfony, musisz dołączyć plik `vendor/autoload.php` w swoim kodzie, aby włączyć mechanizm automatycznego ładowania klas udostępniany przez Composera. Więcej szczegółów znajdziesz w [tym artykule](using_components.md).
 
 ## Podstawowe użycie
 
-Ten artykuł wyjaśnia, jak używać możliwości komponentu DependencyInjection jako niezależnego elementu w dowolnej aplikacji PHP. Artykuł [Service Container](doc/service_container.md) zawiera informacje o tym, jak używać go w aplikacjach Symfony.
+Ten artykuł wyjaśnia, jak używać możliwości komponentu DependencyInjection jako niezależnego elementu w dowolnej aplikacji PHP. Artykuł [Service Container](../service_container.md) zawiera informacje o tym, jak używać go w aplikacjach Symfony.
 
 Możesz mieć klasę taką jak poniższa `Mailer`, którą chcesz udostępnić jako serwis.
 
