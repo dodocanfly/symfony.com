@@ -304,9 +304,9 @@ Dostęp do stron konferencji powinien teraz odbywać się za pomocą jej sluga:
 ![slug](https://symfony.com/doc/6.4en//the-fast-track/_images/slug.png)
 
 ### Sprawdź również:
-- [System zdarzeń Doctrine](../../../7.2/doctrine/events.html) (callbacki cyklu życia i nasłuchiwacze, entity listeners oraz subskrybenci cyklu życia);
-- [Dokumentacja komponentu String](../../../7.2/components/string.html);
-- [Kontener usług](../../../7.2/service_container.html);
+- [System zdarzeń Doctrine](../../7.2/doctrine/events.html) (callbacki cyklu życia i nasłuchiwacze, entity listeners oraz subskrybenci cyklu życia);
+- [Dokumentacja komponentu String](../../7.2/components/string.html);
+- [Kontener usług](../../7.2/service_container.html);
 - [Ściąga z usług Symfony](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/services_en_42.pdf) (Symfony Services Cheat Sheet).
 
 ---
