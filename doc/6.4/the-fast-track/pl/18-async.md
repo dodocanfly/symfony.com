@@ -141,3 +141,8 @@ Aby uzyskać logi z workera, użyj:
 - Kurs SymfonyCasts dotyczący komponentu Messenger;  
 - Architektura Enterprise Service Bus i wzorzec CQRS;  
 - Dokumentacja Symfony Messenger.
+
+---
+
+- **Poprzednia strona:** [Testowanie](17-tests.md)
+- **Następna strona:** [Podejmowanie decyzji za pomocą przepływu pracy](19-workflow.md)
